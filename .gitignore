@@ -1,0 +1,7 @@
+node_modules
+coverage
+pgadmin4
+dist
+.env.dev
+.env.test
+.env
